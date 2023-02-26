@@ -7,3 +7,12 @@ body {
   color: whitesmoke;
 }
 
+a {
+  color: aliceblue;
+}
+a:visited {
+  color: lightgrey;
+}
+a:hover, a:active {
+  color: #eee;
+}
